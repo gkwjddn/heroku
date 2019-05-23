@@ -1,1 +1,1 @@
-web: gunicorn 프로젝트명.wsgi --log-file -
+web: gunicorn lion_class.wsgi --log-file -
